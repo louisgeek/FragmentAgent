@@ -12,7 +12,7 @@ import java.util.Random;
 
 
 public class AtyResultFragment extends Fragment {
-    private static final String TAG = "ActivityResultFrag";
+    private static final String TAG = "AtyResultFragment";
     private SparseArray<AtyResultListener> mActivityResultListenerSparseArray = new SparseArray<>();
     private Random mRandom = new Random();
 

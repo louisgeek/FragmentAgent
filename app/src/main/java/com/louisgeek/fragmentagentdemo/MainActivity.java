@@ -1,4 +1,4 @@
-package com.louisgeek.fragmentagent;
+package com.louisgeek.fragmentagentdemo;
 
 import android.Manifest;
 import android.content.Intent;
@@ -16,6 +16,7 @@ import com.louisgeek.fragmentagent.atyresult.AtyResultHelper;
 import com.louisgeek.fragmentagent.atyresult.AtyResultListener;
 import com.louisgeek.fragmentagent.permission.PermissionsHelper;
 import com.louisgeek.fragmentagent.permission.RequestPermissionsListener;
+
 
 public class MainActivity extends AppCompatActivity {
 

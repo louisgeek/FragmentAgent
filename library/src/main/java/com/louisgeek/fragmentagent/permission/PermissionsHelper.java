@@ -6,7 +6,7 @@ import androidx.fragment.app.FragmentManager;
 /**
  * Created by louisgeek on 2019/7/1.
  * <p>
- * 常用9组 Dangerous Permission
+ * 常用 9 组 Dangerous Permission
  * <p>
  * CALENDAR（日历）
  * READ_CALENDAR
